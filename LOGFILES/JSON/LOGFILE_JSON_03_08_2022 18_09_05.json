@@ -1,0 +1,3803 @@
+[
+{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "06:00:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:06:08",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:06:17",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:10:52",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "18"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:10:52",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:14:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "83"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:14:20",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:18:09",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "82"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:18:09",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:22:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "63"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:27:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:30:21",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "56"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:34:40",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "87"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:38:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:42:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "12"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:42:20",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:46:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "25"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:46:39",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:50:49",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:54:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "69"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:58:55",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:58:55",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 12,66317]"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "07:59:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "70"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:01:05",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:02:21",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "30"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:02:21",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:06:12",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:06:12",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:10:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "34"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:10:51",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:14:38",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "21"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:14:38",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:18:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "51"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:22:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "63"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:22:08",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:27:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "57"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:27:00",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:30:55",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "47"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:34:40",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "61"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:38:12",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "15"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:42:52",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:42:52",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "90"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "08:43:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "09:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "09:01:44",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "09:01:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "50"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "09:02:35",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "09:02:35",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "09:02:44",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "83"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "09:02:44",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "09:02:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "10:14:02",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,00652]"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "16:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "9"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:01:05",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:04:56",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:05:36",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:05:36",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:05:41",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:09:46",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:09:50",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "26"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:13:59",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "48"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:17:37",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "86"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:17:37",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:21:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "65"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:21:32",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:25:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "39"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:29:58",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "18"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:33:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "76"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:37:59",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "38"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:41:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:45:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "27"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:49:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "38"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:53:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "46"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:53:25",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:57:21",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:57:21",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 14,05604]"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "18:57:22",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "93"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:01:03",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "79"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:01:03",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:05:36",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "20"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:05:36",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:09:09",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "85"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:09:09",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:13:37",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:17:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "75"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:21:29",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "76"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:25:07",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "39"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:29:33",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "47"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:37:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "24"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:42:59",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:43:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "58"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:43:02",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:43:02",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:43:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:43:04",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:59:08",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:59:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "66"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "19:59:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:00:58",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:00:58",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:01:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:04:21",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "37"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:04:21",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:08:49",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "21"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:12:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "100"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:16:34",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "93"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:20:58",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "67"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:20:58",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:24:10",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:24:10",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:28:58",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "37"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:32:42",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:36:11",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "96"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:40:17",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "60"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:40:17",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:44:06",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "35"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:44:06",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:48:50",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "61"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:53:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:53:00",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:53:39",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,04407]"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:56:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "31"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "20:56:24",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:00:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "39"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:04:17",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "77"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:08:54",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "25"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:12:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "42"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:16:56",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:21:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "32"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:25:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "47"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:28:38",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "84"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:28:38",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:32:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "94"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:36:35",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "28"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:36:35",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:40:19",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "93"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:40:19",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:44:55",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "73"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:44:55",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:48:59",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "65"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:48:59",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:52:47",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "21:56:38",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "15"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "22:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "22:04:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Monday",
+    "TIME": "23:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "04:01:12",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "05:01:13",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "06:01:12",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:01:13",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:26:43",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:26:59",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "14"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:26:59",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:34:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:34:00",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:41:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "74"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:47:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "49"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "07:54:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "44"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:01:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "37"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:08:18",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:15:45",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:15:45",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 12,78422]"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:15:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "43"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:15:51",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:22:41",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "44"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:22:41",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:29:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "52"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:36:16",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "31"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:36:16",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:43:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "60"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:43:30",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:50:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "35"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "08:57:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "99"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:04:27",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:04:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "59"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:04:52",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:04:57",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "52"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:05:05",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:05:18",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:05:18",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:05:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "73"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:05:24",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "09:05:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "10:29:19",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,04053]"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "16:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "9"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:10:36",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:11:08",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:11:08",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:11:18",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:21:18",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:21:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "47"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:41:22",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "18:51:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "61"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:01:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "63"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:11:45",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "62"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:21:26",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:21:26",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 12,67831]"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:21:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:31:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "100"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:41:44",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:41:44",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:51:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "56"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "19:51:51",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:01:31",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "98"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:11:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "48"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:21:54",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "57"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:31:17",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "16"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:41:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "59"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:51:08",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:51:12",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "64"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:52:15",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:52:15",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:52:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "20:52:20",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "21:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "21:37:42",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,0241]"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "22:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "04.03.2022 Tuesday",
+    "TIME": "23:01:04",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "04:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "05:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "06:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:04:27",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:04:37",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "53"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:04:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:05:19",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:05:19",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:05:21",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:05:21",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:15:40",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:15:43",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "48"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:25:10",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "60"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:25:10",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:35:33",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "11"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:35:33",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:45:11",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "55"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:55:39",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:55:39",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 13,63488]"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:55:42",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "9"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "07:55:42",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "08:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "08:05:55",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "99"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "08:05:55",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "08:15:57",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "91"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "08:25:18",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "22"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "08:35:37",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "76"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "08:45:34",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "08:46:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:02:29",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:02:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "63"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:03:18",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:03:18",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:03:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "83"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:03:20",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:03:23",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "09:57:24",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,0407]"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "16:01:08",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "9"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:04:36",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:05:36",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:05:36",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:05:40",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:15:17",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "23"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:15:17",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:25:18",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:25:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "77"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:25:20",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:35:19",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "69"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:35:19",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:45:37",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "21"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:45:37",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "17:55:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "82"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:05:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "16"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:05:28",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:16:58",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:16:58",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 14,26526]"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:17:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "90"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:26:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:26:04",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:36:13",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:36:15",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "58"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:37:57",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:37:57",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:38:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:38:00",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:57:00",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:57:02",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "58"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:57:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:58:42",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:58:42",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:58:45",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "26"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "18:58:45",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:08:57",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "24"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:18:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "63"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:28:45",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "46"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:38:14",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "43"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:48:14",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "11"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:48:14",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:58:43",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "40"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "19:58:43",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:08:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "34"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:10:02",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,05791]"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:18:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "66"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:28:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "29"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:38:16",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "96"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:38:16",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:48:38",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "36"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:48:38",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "20:58:29",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "62"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "21:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "21:08:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "18"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "21:18:34",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "49"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "21:28:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "21:38:15",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "51"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "21:48:42",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "15"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "22:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "22:12:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "05.03.2022 Wednesday",
+    "TIME": "23:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "04:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "05:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "06:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:08:17",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:08:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "50"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:08:20",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:13:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "75"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:13:24",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:18:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "30"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:23:33",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:28:11",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "57"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:33:14",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "20"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:33:14",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:38:18",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "37"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:38:18",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:43:12",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "64"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:43:12",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:48:52",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "82"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:48:52",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:53:10",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "51"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "07:58:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "16"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:03:22",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:03:22",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 11,45711]"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:03:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "85"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:03:24",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:08:58",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "46"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:08:58",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:13:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:18:15",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "36"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:23:12",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "27"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:23:12",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:28:12",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "56"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:33:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:33:24",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:38:14",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "84"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:43:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "31"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:48:36",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "69"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:53:49",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "95"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:58:11",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:58:11",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "08:59:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "09:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "09:03:21",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "09:03:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "62"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "09:04:11",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "09:04:11",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "09:04:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "87"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "09:04:27",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "09:04:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "10:36:02",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,02436]"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "16:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "9"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "17:07:31",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "17:08:37",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "17:08:37",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "17:08:39",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "17:28:38",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "17:28:41",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "41"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "17:48:14",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "70"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "18:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "18:08:04",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "18:08:04",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 15,67942]"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "18:08:07",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "15"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "18:28:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "38"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "18:48:02",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "94"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "19:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "19:08:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "69"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "19:08:24",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "19:28:52",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "41"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "19:28:52",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "19:40:01",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,03139]"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "19:48:44",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "37"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "19:48:44",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "20:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "20:08:43",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "56"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "20:08:43",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "20:28:19",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "42"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "20:28:19",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "20:48:40",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "15"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "21:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "21:08:22",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "36"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "21:08:22",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "21:28:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "12"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "21:48:10",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "21"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "22:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "22:07:47",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "06.03.2022 Thursday",
+    "TIME": "23:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "04:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "05:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "06:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:05:12",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:05:15",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "53"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:09:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "25"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:13:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:17:23",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "40"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:21:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "47"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:25:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "11"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:25:53",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:29:57",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "55"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:29:57",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:33:38",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "84"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:33:38",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:37:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "99"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:37:39",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:41:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "45"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:45:23",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "72"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:49:44",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "55"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:53:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "80"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "07:57:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:01:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "13"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:05:20",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:05:20",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 10,01107]"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:05:29",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "58"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:09:55",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "35"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:13:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "96"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:17:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "12"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:21:42",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "51"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:25:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "39"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:29:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "22"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:37:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "32"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:42:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "33"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:45:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:49:54",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "99"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:49:54",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:53:39",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:53:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:53:39",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "08:54:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "09:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "09:02:11",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "09:02:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "66"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "09:03:46",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "09:03:46",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "09:03:49",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "70"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "09:03:49",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "09:03:52",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "11:00:41",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,04496]"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "16:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "9"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:04:57",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:05:12",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:05:12",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:05:14",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:11:41",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:11:43",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "88"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:17:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "65"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:23:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "84"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:29:48",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "71"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:35:40",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "32"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:41:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "66"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:47:43",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "22"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:53:12",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "74"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "17:59:31",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "46"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:05:14",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "38"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:11:52",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:11:52",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 12,58648]"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:11:54",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "13"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:17:18",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "89"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:23:45",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "28"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:29:10",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "16"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:35:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "43"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:41:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:47:18",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "28"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:53:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "69"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:59:55",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "100"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "18:59:55",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:05:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "20"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:05:13",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:11:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "16"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:17:29",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "52"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:17:29",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:23:52",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:23:52",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:29:37",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "76"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:35:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "20"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:41:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "54"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:47:10",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "26"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:53:46",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "31"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "19:59:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "77"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:05:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "47"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:05:26",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:11:14",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "60"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:11:14",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:17:29",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "16"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:23:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:29:01",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,01324]"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:29:36",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "89"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:35:44",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "32"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:41:16",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "37"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:47:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:47:04",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:53:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "77"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:53:25",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "20:59:40",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "96"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:05:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "18"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:11:41",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "67"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:17:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "23"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:17:39",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:23:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "30"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:23:53",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:29:19",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "95"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:35:47",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "72"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:35:47",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:41:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "92"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:41:51",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:47:06",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:47:06",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:53:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "39"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:53:25",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "21:59:56",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "22:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "22:10:35",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "07.03.2022 Friday",
+    "TIME": "23:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "04:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "05:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "06:01:16",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "07:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "07:16:56",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "07:16:59",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "27"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "07:28:06",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "87"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "07:40:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "49"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "07:52:06",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:04:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:16:06",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:16:06",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 11,96398]"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:16:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "45"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:16:08",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:28:16",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "30"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:28:16",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:41:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "91"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:52:10",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:52:10",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "20"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "08:53:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "09:00:24",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "09:00:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "62"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "09:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "09:01:29",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "09:01:29",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "09:01:46",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "81"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "09:01:46",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "09:01:49",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "10:41:02",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,00918]"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "16:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "9"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:04:22",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:05:48",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:05:48",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:05:50",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:10:23",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:10:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "60"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:15:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "21"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:20:16",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "55"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:25:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:30:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "79"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:35:35",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "70"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:35:35",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:40:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "47"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:40:08",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:45:43",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "65"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:50:41",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "20"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "17:55:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "65"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:00:29",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "74"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:05:41",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "71"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:10:44",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:10:44",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 14,59181]"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:10:47",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "50"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:15:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:20:41",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "82"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:25:10",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "51"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:25:10",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:30:21",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:30:21",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:35:22",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "20"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:40:33",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "14"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:45:15",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:45:17",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "54"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:46:20",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:46:20",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:46:23",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "18:46:23",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:06:52",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:06:54",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "69"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:06:56",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:07:41",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:07:41",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:07:44",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "36"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:07:44",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:12:42",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "84"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:17:44",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "15"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:23:00",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "32"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:27:40",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "43"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:32:02",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "55"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:37:19",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "58"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:42:39",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "44"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:47:54",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "67"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:52:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "30"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:57:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "65"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:57:26",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "19:58:29",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,03902]"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:02:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:02:26",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:07:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "32"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:12:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "78"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:17:28",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "45"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:22:18",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:27:02",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "38"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:32:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "82"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:37:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "48"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:42:57",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "71"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:42:57",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:47:06",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "83"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:47:06",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:52:59",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "20"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:57:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "42"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "20:57:30",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:02:33",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "95"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:02:33",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:07:35",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "94"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:12:53",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "33"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:17:59",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "47"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:17:59",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:22:03",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "33"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:22:03",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:27:33",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "28"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:32:54",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:37:49",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "89"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "21:42:18",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "16"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "22:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "22:10:38",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "03.03.2022 Saturday",
+    "TIME": "23:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "04:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "05:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "2"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "06:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "4"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:08:23",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:08:26",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "98"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:13:21",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "11"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:18:36",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:23:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "30"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:28:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "17"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:33:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "24"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:38:46",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "25"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:43:22",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "11"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:48:50",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "52"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:53:57",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "34"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:53:57",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "07:58:19",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "51"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:03:21",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "71"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:08:02",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:08:02",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 11,43683]"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:08:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "24"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:08:04",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:13:06",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "40"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:13:06",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:18:36",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "93"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:23:04",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "64"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:28:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "26"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:33:20",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "6"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:33:20",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:38:29",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:43:30",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:43:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "73"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "08:44:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "09:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "10"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "09:01:22",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "09:01:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "67"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "09:02:52",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "09:02:52",
+    "ID": "CAMERA",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "09:02:54",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "76"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "09:02:54",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "09:02:57",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "10:44:02",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,04143]"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "16:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "9"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:08:48",
+    "ID": "DOOR",
+    "NEW_STATUS": "UNLOCKED"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:09:06",
+    "ID": "DOOR",
+    "NEW_STATUS": "LOCKED"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:09:06",
+    "ID": "CAMERA",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:09:08",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:20:46",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "75"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:31:27",
+    "ID": "WINDOW",
+    "NEW_STATUS": "OPENED"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:31:30",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:31:30",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:42:55",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:53:13",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "45"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "17:53:13",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "8"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:04:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "12"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:15:06",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "56"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:26:15",
+    "ID": "WINDOW",
+    "NEW_STATUS": "CLOSED"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:26:15",
+    "ID": "HEATER",
+    "NEW_STATUS": "ON \t[TEMP: 14,3979]"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:26:17",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "52"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:37:36",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "77"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:37:36",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "OFF"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:48:24",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "15"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:48:24",
+    "ID": "MOVEMENT_SENS",
+    "NEW_STATUS": "ON"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "18:59:25",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "28"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "19:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "7"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "19:10:55",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "67"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "19:21:41",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "68"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "19:32:41",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "53"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "19:43:22",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "97"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "19:54:44",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "95"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "20:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "5"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "20:05:32",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "55"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "20:16:27",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "53"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "20:17:02",
+    "ID": "HEATER",
+    "NEW_STATUS": "OFF \t[TEMP: 22,0473]"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "20:27:59",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "57"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "20:38:06",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "48"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "20:49:09",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "51"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "21:00:34",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "44"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "21:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "3"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "21:11:02",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "75"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "21:22:29",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "53"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "21:33:08",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "23"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "21:44:35",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "19"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "22:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "22:15:51",
+    "ID": "NOISE_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "04.03.2022 Sunday",
+    "TIME": "23:01:02",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "0"
+},{
+    "DATE": "05.03.2022 Monday",
+    "TIME": "04:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "1"
+},{
+    "DATE": "05.03.2022 Monday",
+    "TIME": "05:01:01",
+    "ID": "LIGHT_SENS",
+    "NEW_STATUS": "2"
+}
+]
