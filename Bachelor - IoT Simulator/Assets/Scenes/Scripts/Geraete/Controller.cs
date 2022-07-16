@@ -333,6 +333,25 @@ public class Controller : MonoBehaviour
         AddToLog("DOOR", msg);
         
     }
+    public void OpenDoor(){
+        if(!deviceList[DOOR].Active)
+            deviceList[DOOR].Activate();
+        else
+            return;
+        
+        string msg = deviceList[DOOR].Active ? "UNLOCKED" : "LOCKED";
+        AddToLog("DOOR", msg);
+    }
+
+    public void CloseDoor(){
+        if(deviceList[DOOR].Active)
+            deviceList[DOOR].Deactivate();
+        else
+            return;
+        
+        string msg = deviceList[DOOR].Active ? "UNLOCKED" : "LOCKED";
+        AddToLog("DOOR", msg);
+    }
 
     public void InteractWindow(){
         if(deviceList[WINDOW].Active)
